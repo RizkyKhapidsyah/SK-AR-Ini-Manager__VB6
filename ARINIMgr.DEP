@@ -1,0 +1,16 @@
+[Version]
+Version=2.0.0.0
+
+[ARINIMgr.dll <000A>]
+Dest=$(WinSysPath)
+Date=10/12/98
+Time=18.48
+Version=2.0.0.0
+CABFilename=
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=VB6ES.DLL
